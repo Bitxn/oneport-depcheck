@@ -1,0 +1,13 @@
+setup.py
+depcheck/__init__.py
+depcheck/cli.py
+depcheck/license_checker.py
+depcheck/reporter.py
+depcheck/scanner.py
+depcheck/supply_chain.py
+oneport_depcheck.egg-info/PKG-INFO
+oneport_depcheck.egg-info/SOURCES.txt
+oneport_depcheck.egg-info/dependency_links.txt
+oneport_depcheck.egg-info/entry_points.txt
+oneport_depcheck.egg-info/requires.txt
+oneport_depcheck.egg-info/top_level.txt
