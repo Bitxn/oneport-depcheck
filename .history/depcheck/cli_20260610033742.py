@@ -403,7 +403,7 @@ def install_hook(path, vscode, uninstall):
     console.print("[dim]depcheck will now run on every git commit.[/dim]")
     if vscode:
         written = install_vscode_config(path)
-        #btrh
+        ?
         for p in written:
             console.print(f"[green]VS Code config written → {p}[/green]")
     console.print()
